@@ -1,7 +1,0 @@
-C:\Users\clyzer\source\repos\ConsoleApp3\Курсовая\bin\Debug\ConsoleApp3.exe.config
-C:\Users\clyzer\source\repos\ConsoleApp3\Курсовая\bin\Debug\ConsoleApp3.exe
-C:\Users\clyzer\source\repos\ConsoleApp3\Курсовая\bin\Debug\ConsoleApp3.pdb
-C:\Users\clyzer\source\repos\ConsoleApp3\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
-C:\Users\clyzer\source\repos\ConsoleApp3\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
-C:\Users\clyzer\source\repos\ConsoleApp3\Курсовая\obj\Debug\ConsoleApp3.exe
-C:\Users\clyzer\source\repos\ConsoleApp3\Курсовая\obj\Debug\ConsoleApp3.pdb
